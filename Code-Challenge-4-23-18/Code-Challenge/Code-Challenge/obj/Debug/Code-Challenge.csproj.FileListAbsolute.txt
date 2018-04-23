@@ -1,0 +1,7 @@
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\bin\Debug\Code-Challenge.exe.config
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\bin\Debug\Code-Challenge.exe
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\bin\Debug\Code-Challenge.pdb
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\obj\Debug\Code-Challenge.csprojResolveAssemblyReference.cache
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\obj\Debug\Code-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\obj\Debug\Code-Challenge.exe
+C:\Users\nicks\Documents\Revature\smith-nicholas-project0\Code-Challenge-4-23-18\Code-Challenge\Code-Challenge\obj\Debug\Code-Challenge.pdb
